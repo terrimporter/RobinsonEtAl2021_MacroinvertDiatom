@@ -2,8 +2,6 @@
 
 This repository contains the dataflow and scripts used to process the COI metabarcode reads in the paper Robinson et al., 2021 (submitted to BioRxiv).
 
-Infiles, R scripts, and supplementary data files can be downloaded from https://github.com/terrimporter/RobinsonEtAl2021_MacroinvertDiatom/releases .
-
 ## Infiles
 
 diatom_invert_combined.csv contains the ESV ids, sample names, and taxonomic assignments.  
